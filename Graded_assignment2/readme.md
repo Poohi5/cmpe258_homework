@@ -1,4 +1,4 @@
 ## Contains advanced keras based NN models 
 
-## Deployed the image classification model![](https://accesorize.onrender.com/)
    
+[Deployed the image multi label classification model(click here)](https://accesorize.onrender.com/)
