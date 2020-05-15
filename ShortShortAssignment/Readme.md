@@ -1,4 +1,4 @@
-# Zero Shot Action Recognition in Videso: A survey
+# Zero Shot Action Recognition in Videos: A survey
 
 ### Topics Discussed
   1. Zero Shot Learning (Overview)
